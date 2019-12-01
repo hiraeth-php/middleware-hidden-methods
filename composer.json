@@ -1,6 +1,6 @@
 {
     "name": "hiraeth/middleware-hidden-methods",
-    "description": "Hiden methods middleware for the Hiraeth Nano Framework",
+    "description": "Hidden methods middleware for the Hiraeth Nano Framework",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "MIT",
